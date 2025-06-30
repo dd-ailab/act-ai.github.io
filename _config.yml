@@ -20,11 +20,10 @@ author: Some Person
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About Our Team: "aboutme"
   Projects:
     - 다기능로봇 2024: "/projects/"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #

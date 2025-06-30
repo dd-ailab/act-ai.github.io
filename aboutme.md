@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Us
+subtitle: 농민을 위한 실용적 Physical AI 연구팀
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+### 🎯 우리의 목표
+실용적이고 경제적인 농업 로봇을 통해 모든 농민이 첨단 AI 기술을 활용할 수 있도록 목표.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### 🔧 핵심 기술
 
-What else do you need?
+- Physical AI: 실제 농장에서 작동하는 지능형 로봇
+- 소수 데이터 학습: 제한된 데이터로 다양한 농작업 학습
+- 농작업 자동화: 정식, 적화, 런너제거 등 정밀 작업
 
-### My story
+### ⭐ 우리의 차별점
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+✅ 경제성: 농민이 도입 가능한 합리적 가격
+✅ 실용성: 실제 농장 현장에서 검증된 기술
+✅ 효율성: 소수 데이터로 여러 농작업 학습 가능
