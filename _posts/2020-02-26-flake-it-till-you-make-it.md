@@ -1,18 +1,33 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: UMI 2024
+subtitle: 차세대 UMI 로봇 프로젝트
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+tags: [UMI, 로봇, 2024]
+author: AI Lab
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+## UMI 2024 프로젝트
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+이 페이지는 2024년 UMI(Universal Mobile Intelligence) 로봇 프로젝트의 데모와 정보를 공유합니다.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+### 프로젝트 개요
+UMI 2024는 다양한 환경에서 자율적으로 이동하며, 데이터 수집과 실시간 분석이 가능한 차세대 모바일 로봇입니다.
+
+### 주요 기능
+- 실내외 자율 주행 및 장애물 회피
+- 환경 데이터(온도, 습도, 영상 등) 실시간 수집
+- 원격 제어 및 모니터링
+- AI 기반 경로 최적화
+
+### 데모 영상
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_HMk7I-vSBQ" frameborder="0" allowfullscreen></iframe>
+
+### 프로젝트 이미지
+![UMI 2024 데모](/assets/img/thumb.png)
+
+### 요약
+UMI 2024는 2024년 6월 기준으로 다양한 연구 및 산업 현장에 적용되고 있으며, 미래형 스마트 로봇의 표준을 제시합니다.

@@ -1,43 +1,34 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: 온실로봇 2025
+subtitle: 스마트팜 혁신을 위한 차세대 로봇
+tags: [온실로봇, 스마트팜, 2025]
 comments: true
-mathjax: true
-author: Bill Smith
+author: AI Lab
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
 
-**Here is some bold text**
+## 온실로봇 2025 프로젝트
 
-## Here is a secondary heading
+이 페이지는 2025년 온실로봇 프로젝트의 데모와 정보를 공유합니다.
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+### 프로젝트 개요
+온실로봇 2025는 스마트팜 환경에서 자동으로 작물 상태를 모니터링하고, 급수 및 환경 제어를 수행하는 차세대 로봇입니다.
 
-Here's a table:
+### 주요 기능
+- 온실 내 자율 주행
+- 작물 상태 실시간 영상 분석
+- 자동 급수 및 환경 조절
+- 원격 제어 및 모니터링
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### 데모 영상
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4TKjNrIksCQ" frameborder="0" allowfullscreen></iframe>
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+### 프로젝트 이미지
+![온실로봇 데모](/assets/img/path.jpg)
 
-How about a yummy crepe?
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
-
-It can also be centered!
-
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+### 요약
+본 프로젝트는 2025년 6월 기준으로 시범 운영 중이며, 스마트팜 혁신을 목표로 하고 있습니다.
 
 Here's a code chunk:
 
