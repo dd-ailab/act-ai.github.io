@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 온실로봇 2025
+title: coming soon
 subtitle: 스마트팜 혁신을 위한 차세대 로봇
 tags: [온실로봇, 스마트팜, 2025]
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UMI 2024
+title:  coming soon
 subtitle: 차세대 UMI 로봇 프로젝트
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
